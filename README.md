@@ -5,11 +5,11 @@
 
 - Next.js 15
 - TypeScript
-- FAST API
+- Restful API
 - PostgreSQL
 - Tailwind CSS
 
 ## 📧 Contact
 
 For questions, feedback, or support:
-- Email: [iamsajiddev@gmail.com](mailto:iamsajiddev@gmail.com)
+- Email: [ezhar.dev@gmail.com](mailto:ezhar.dev@gmail.com)
