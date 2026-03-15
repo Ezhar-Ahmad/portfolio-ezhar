@@ -5,7 +5,7 @@
 
 - Next.js 15
 - TypeScript
-- Restful API
+- FAST API
 - PostgreSQL
 - Tailwind CSS
 
